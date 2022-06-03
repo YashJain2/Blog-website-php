@@ -213,7 +213,7 @@
   
       <div class = "row">
           <div class = "col" >
-          <span style="color:#fff;font-size:8rem;font-weight:700;display:block;padding:0;"><span style="margin:0;font-size:6rem; font-weight:600;padding:0;">$</span>  19</span>
+          <span style="color:#fff;font-size:8rem;font-weight:700;display:block;padding:0;"><span style="margin:0;font-size:6rem; font-weight:600;padding:0;position:relative;left:5px;">$</span>  19</span>
           <span style="display:block;padding-bottom:20px;padding-left:30px;font-size:1.2rem;color:#fff;font-weight:600;">Includes 1-3 people<br/> Additional: 10$ per month</span>
           <button type="button" class="btn btn-primary btn-lg" style="margin-left:30px;background:#088b8c;border:0;border-radius:0;font-size:1.6rem;padding-top:5px;padding-bottom:5px;">Get Started</button>        
           </div>
